@@ -1,3 +1,3 @@
 # DailyQuotes
 
-Daily Quotes is a web application to display motivational quotes by ctching it from a Quotes API.
+Daily Quotes is going to be a web application to display motivational quotes to the users.
